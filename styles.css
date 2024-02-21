@@ -1,0 +1,65 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    color:aliceblue;
+    background-image:url(https://s.tmimgcdn.com/scr/1200x750/297400/textura-de-fundo-preto-escuro_297412-original.jpg);
+}
+
+h2{
+    text-align:left;
+    padding-left: 190px;
+}
+
+    p{
+    text-align: center;
+    text-align: justify;
+    margin: 190px;
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    text-align: center;
+}
+
+ul li{
+    margin-right: 16px;
+    text-align: center;
+}
+
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+hi {
+    font-size: 50px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.center{
+    text-align: center;
+}
+
+footer{
+    padding: 20px;
+	text-align: center;
+	margin-top: 90px;
+    font-size: 11px;
+
+}
